@@ -1,4 +1,48 @@
 ### Hi there 👋
+- ## 👨🏽‍💻 the technologies and languages that I master are:
+
+<img align="left" width="30px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+
+<img align="left" width="30px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+          
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
+
+<img align="left"  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" />
+
+<img align=""  width="30px" style="padding-right:11px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                     
+<br>
+
+
+- ## 🔭 I’m currently working on
+
+<img alt="Immo Plus" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://file%2B.vscode-resource.vscode-cdn.net/Users/macbookpro/WORKSPACE/saturnedev12/assets/BIENVENUE%403x.png?version%3D1655202727397" />
+<img alt="Immo Plus" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/42/ea/47/42ea4739-0291-762c-4f2a-606faa569125/d1b4fac1-c7df-4e69-9d07-32f0b3a5dff2_Plan_de_travail_13x.png/1284x2778bb.png" />
+
+<img alt="Uskip" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://play-lh.googleusercontent.com/GYUCzgU0pPmM7vjhCvGiKS28RZZbj-5PkVw5NCuhuQR8jB7vL0z1gLNsappDhnWSj2o=w5120-h2880-rw" />
+
+<img alt="Uskip" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://play-lh.googleusercontent.com/BAqrlvZmzU29LQP6HtbEyNJ9BpFB3fT_aPeiiepgnmYs38HmUGg8w822wC6jcg-goZw=w5120-h2880-rw" />
+
+<img alt="Saloon" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://file%2B.vscode-resource.vscode-cdn.net/Users/macbookpro/WORKSPACE/saturnedev12/assets/Capture%20d%E2%80%99%C3%A9cran%202022-06-14%20%C3%A0%2011.12.18.png?version%3D1655205206868" />
+
+<img alt="Saloon" align="left"  width="200px" style="margin-right:11px; margin-bottom:10px; border-radius:5px"  src="https://file%2B.vscode-resource.vscode-cdn.net/Users/macbookpro/WORKSPACE/saturnedev12/assets/Capture%20d%E2%80%99%C3%A9cran%202022-06-14%20%C3%A0%2011.12.53.png?version%3D1655205234036" />
+
+
+
 
 <!--
 **saturnedev12/saturnedev12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
